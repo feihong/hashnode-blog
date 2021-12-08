@@ -14,8 +14,8 @@ Mox.moe is a manhua website that lets you download scans of print manhua for fre
 
 The Manhuaren mobile app lets you view bootleg manhua for free. It gets all of its content from manhua website [DM5](https://dm5.com/), but the app offers a nicer experience because it doesn’t have ads. Since almost all the content in Manhuaren is bootleg, the image quality is often poor. I mostly only mention this tool because it’s a good way to quickly preview a series you see on Mox.moe before you consume download credits to obtain the file. Content on Manhuaren can be in either traditional or simplified, and if it’s a translated series, chapters can switch between the two character sets depending on where the translation came from.
 
-I think that’s about all you need to know to read most of the print manhua out there! I assume that these tools I recommended will work anywhere, but note that I’m writing from the perspective of someone living in the US.
+In summary, Bilibili Manhua app is convenient and reasonably priced but a little limited in selection. Mox.moe is free and has a great selection but doesn’t have good quality images for every series. Manhuaren app is mostly useful for reading a little bit of a manhua to help you decide whether to get it from Mox.moe. I think that’s about all you need to know to read most of the print manhua out there!
 
 [1]: Print manhua refers to 漫画 (comics) that are originally published in magazines or books. This is in contrast to条漫 (webtoons), which are meant to be read on mobile devices.
 
-[2]: Prices range from free to USD 12 cents per chapter. If you have a monthly subscription, it’s about 5 cents per chapter (before tax).
+[2]: All series on Bilibili have some chapters you can read for free. Paid chapters are about USD 12 cents per chapter. If you have a monthly subscription, it’s about 5 cents for a paid chapter (before tax).
